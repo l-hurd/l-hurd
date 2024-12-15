@@ -19,9 +19,9 @@ Welcome to my collection of data analysis projects! This repository showcases th
 
 Here are the projects I’ve completed:
 
-1. **[Healthcare (Pharmaceutical Drug Spending) Data Analysis Project](./project1_healthcareFINAL.ipynb)**
-2. **[Palmer's Penguins Data Analysis Project](./project2_PalmersPenguinsProject.ipynb)**
-3. **[ML Final Project: California Independent Medical Reviews](./project3_CaliforniaIndependentMedicalReviews.ipynb)**
+1. **[Healthcare (Pharmaceutical Drug Spending) Data Analysis Project](./healthcareFINAL.ipynb)**
+2. **[Palmer's Penguins Data Analysis Project](./PalmersPenguinsProject.ipynb)**
+3. **[ML Final Project: California Independent Medical Reviews](./CaliforniaIndependentMedicalReviews.ipynb)**
 
 ---
 
